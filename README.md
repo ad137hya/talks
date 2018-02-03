@@ -1,7 +1,7 @@
 Talks
 =====
 
-** Resurrecting the dead with deep learning ** 
+**Resurrecting the dead with deep learning** 
 
 Keras implementation of char-rnn used to build [DeepLincler](https://twitter.com/deeplincler) & [DeepKRK](https://twitter.com/deepkrk).
 
